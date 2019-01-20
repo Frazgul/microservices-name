@@ -1,0 +1,7 @@
+org/aws/samples/compute/name/NameMessageBodyWriter.class
+org/aws/samples/compute/name/MyApplication.class
+org/aws/samples/compute/name/Names.class
+org/aws/samples/compute/name/NameHandler.class
+org/aws/samples/compute/name/NameEndpoint.class
+org/aws/samples/compute/name/Name.class
+org/aws/samples/compute/name/StartupBean.class
