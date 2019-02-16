@@ -1,7 +1,7 @@
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/NameEndpoint.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/Names.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/Name.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/NameMessageBodyWriter.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/MyApplication.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/StartupBean.java
-/home/ec2-user/aws-samples/microservices/frarom79-github/microservices-name/src/main/java/org/aws/samples/compute/name/NameHandler.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/NameHandler.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/StartupBean.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/Names.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/NameEndpoint.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/MyApplication.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/Name.java
+/home/centos/aws-samples/microservices/microservices-name/src/main/java/org/aws/samples/compute/name/NameMessageBodyWriter.java
