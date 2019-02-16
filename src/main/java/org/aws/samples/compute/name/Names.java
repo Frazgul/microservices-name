@@ -11,7 +11,8 @@ public class Names {
             new Name(5, "Raj"),
             new Name(6, "Amy"),
             new Name(7, "Bernadette"),
-            new Name(8, "Chiara")
+            new Name(8, "Chiara"),
+            new Name(9, "Doriana")
             );
 
     public static Name[] findAll() {
